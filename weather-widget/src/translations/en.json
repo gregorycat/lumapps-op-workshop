@@ -1,0 +1,13 @@
+{
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "uv": "UV index",
+    "speed_unit": "mph",
+    "settings.user_switch": "User current user location",
+    "settings.city_name": "City",
+    "settings.unit": "Unit",
+    "settings.color": "Baclground color",
+    "settings.display_forecast": "Display the forecast",
+    "global_settings.use_large_widget": "Use large veriosn of the widget",
+    "global_settings.api_key": "API key"
+}

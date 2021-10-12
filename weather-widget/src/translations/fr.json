@@ -1,0 +1,15 @@
+{
+    "humidity": "Humidité",
+    "wind": "Vent",
+    "uv": "Indice UV",
+    "speed_unit": "m/s",
+    "errors.retrieve_user": "An error occured while retrieving user",
+    "errors.dismiss": "Fermer",
+    "settings.user_switch": "Utiliser la localisation de l'utilisateur connecté",
+    "settings.city_name": "Ville",
+    "settings.unit": "Unité",
+    "settings.color": "Couleur de fond",
+    "settings.display_forecast": "Afficher les prévisions",
+    "global_settings.use_large_widget": "Utiliser la version large du widget",
+    "global_settings.api_key": "Clé d'API"
+}
